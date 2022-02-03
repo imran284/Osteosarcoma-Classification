@@ -1,2 +1,2 @@
-# Osteosarcome
+# Osteosarcoma
  Osteosarcome detection
